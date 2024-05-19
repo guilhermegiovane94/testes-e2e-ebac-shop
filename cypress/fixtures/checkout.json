@@ -1,0 +1,11 @@
+{
+    "nome": "Carlos",
+    "sobrenome": "Counter",
+    "pais": "Brasil",
+    "endereco": "rua teste",
+    "cidade": "São Paulo",
+    "estado": "São Paulo",
+    "cep": "06036020",
+    "telefone": "(11) 4789-2114",
+    "email": "teste@teste.com"
+}
