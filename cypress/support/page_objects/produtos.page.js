@@ -14,7 +14,7 @@ class ProdutosPage {
 
     fazCheckout(parametros){
         cy.get('#cart > .dropdown-toggle').click()
-        cy.get('#cart > .dropdown-menu > .widget_shopping_cart_content > .mini_cart_content > .mini_cart_inner > .mcart-border > .buttons > .checkout').click()
+        cy.get('//div[@id="cart"]//a[contains(text(),"Checkout")]').click()
     }
 
 }
